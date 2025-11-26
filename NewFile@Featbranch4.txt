@@ -1,0 +1,10 @@
+GrapheneOS is a nonprofit, open-source, and Android-based operating system used by many people seeking better privacy, security, and control. Here are some of the reasons why people prefer it to Google’s Android:
+
+No background data collection, built-in Google tracking or telemetry. This means your device doesn’t send usage data, diagnostics, or behavioral information to Google or its partners.
+Disabled Advertising ID by default. Advertising ID is a unique identifier assigned to your device by Android that lets marketers track you for targeted ads.
+No bloatware, such as manufacturer or carrier-installed apps.
+No forced apps you can’t uninstall, such as Google Assistant or Gemini.
+No Google lock-in prompts, such as persistent notifications encouraging Google services. You can also use GrapheneOS without an Google account.
+No default cloud integration such as automatic Google Photos backup.
+Advanced privacy permission controls, such as better protection against zero-day exploits.
+Stricter security rules controlling how apps behave, such as sandboxing that prevents apps from accessing other apps’ data or system resources without explicit permission.
