@@ -1,0 +1,5 @@
+On November 24, 2025, GrapheneOS announced on X(new window) it has removed all active servers from France and is in the process of ending its relationship with hosting provider OVHcloud. “France isn’t a safe country for open source privacy projects,” the team said, pointing to what it describes as the expectations of French authorities for encryption backdoors.
+
+This decision arrives as France becomes one of the most vocal supporters of proposed EU Chat Control legislation, which aims to force online platforms and messaging services to automatically scan private chats, images, and media for child-sexual-abuse material (CSAM) and grooming content. In March, the French National Assembly rejected a proposal(new window) that would have required secure communication services like Signal to weaken or remove their end-to-end encryption.
+
+End-to-end encryption (E2EE) means that only the sender and recipient can read the contents of a message — not the service provider or other third parties, including government authorities or cybercriminals.
